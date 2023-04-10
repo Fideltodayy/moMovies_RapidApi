@@ -1,0 +1,319 @@
+{
+
+    "results": [
+      {
+        "id": "tt5637536",
+        "primaryImage": {
+          "id": "rm1197290240",
+          "width": 720,
+          "height": 720,
+          "url": "https://m.media-amazon.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_.jpg",
+          "caption": {
+            "plainText": "Avatar: The Way of Water (2022)",
+            "__typename": "Markdown"
+          },
+          "__typename": "Image"
+        },
+        "titleType": {
+          "text": "Movie",
+          "id": "movie",
+          "isSeries": false,
+          "isEpisode": false,
+          "categories": [
+            {
+              "value": "movie",
+              "__typename": "TitleTypeCategory"
+            }
+          ],
+          "canHaveEpisodes": false,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "Avatar 5",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2028,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 22,
+          "month": 12,
+          "year": 2028,
+          "__typename": "ReleaseDate"
+        }
+      },
+      {
+        "id": "tt14486186",
+        "primaryImage": null,
+        "titleType": {
+          "text": "Music Video",
+          "id": "musicVideo",
+          "isSeries": false,
+          "isEpisode": false,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "Robi Tsubasa feat. Robin: Andere Liga",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2018,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 26,
+          "month": 12,
+          "year": 2028,
+          "__typename": "ReleaseDate"
+        }
+      },
+      {
+        "id": "tt14486160",
+        "primaryImage": null,
+        "titleType": {
+          "text": "Music Video",
+          "id": "musicVideo",
+          "isSeries": false,
+          "isEpisode": false,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "Robi Tsubasa, Terros, Dzeko, Robin: Strada",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2018,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 26,
+          "month": 12,
+          "year": 2028,
+          "__typename": "ReleaseDate"
+        }
+      },
+      {
+        "id": "tt12937294",
+        "primaryImage": null,
+        "titleType": {
+          "text": "TV Episode",
+          "id": "tvEpisode",
+          "isSeries": false,
+          "isEpisode": true,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "Retribution",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2027,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 27,
+          "month": 11,
+          "year": 2027,
+          "__typename": "ReleaseDate"
+        }
+      },
+      {
+        "id": "tt12945136",
+        "primaryImage": null,
+        "titleType": {
+          "text": "TV Episode",
+          "id": "tvEpisode",
+          "isSeries": false,
+          "isEpisode": true,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "Memories",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2027,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 27,
+          "month": 11,
+          "year": 2027,
+          "__typename": "ReleaseDate"
+        }
+      },
+      {
+        "id": "tt13057182",
+        "primaryImage": null,
+        "titleType": {
+          "text": "TV Episode",
+          "id": "tvEpisode",
+          "isSeries": false,
+          "isEpisode": true,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "Campsite",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2027,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 27,
+          "month": 11,
+          "year": 2027,
+          "__typename": "ReleaseDate"
+        }
+      },
+      {
+        "id": "tt20765460",
+        "primaryImage": null,
+        "titleType": {
+          "text": "TV Special",
+          "id": "tvSpecial",
+          "isSeries": false,
+          "isEpisode": false,
+          "categories": [
+            {
+              "value": "tv",
+              "__typename": "TitleTypeCategory"
+            }
+          ],
+          "canHaveEpisodes": false,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "National Memorial Day Concert",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2026,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 24,
+          "month": 5,
+          "year": 2026,
+          "__typename": "ReleaseDate"
+        }
+      },
+      {
+        "id": "tt20252858",
+        "primaryImage": {
+          "id": "rm2145523201",
+          "width": 1660,
+          "height": 2490,
+          "url": "https://m.media-amazon.com/images/M/MV5BZGRjMTQ5NTAtYmM3Yi00ODFlLWE5ZDUtNjM1MGUwYzZiNjU2XkEyXkFqcGdeQXVyMTI3MTQzNzk1._V1_.jpg",
+          "caption": {
+            "plainText": "Tom Bush, Zac Tipple, Ben Staynings, and Freddie Blu Bailey in The Gods of Darkness (2025)",
+            "__typename": "Markdown"
+          },
+          "__typename": "Image"
+        },
+        "titleType": {
+          "text": "Short",
+          "id": "short",
+          "isSeries": false,
+          "isEpisode": false,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "The Gods of Darkness",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2025,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 22,
+          "month": 1,
+          "year": 2025,
+          "__typename": "ReleaseDate"
+        }
+      },
+      {
+        "id": "tt20118488",
+        "primaryImage": {
+          "id": "rm3856995841",
+          "width": 1660,
+          "height": 2490,
+          "url": "https://m.media-amazon.com/images/M/MV5BMGYyZTA2ODktZjBiMy00YmMwLThmZDQtMTlmMDA5MGM5YTMyXkEyXkFqcGdeQXVyMTI3MTQzNzk1._V1_.jpg",
+          "caption": {
+            "plainText": "Tom Bush, Ben Staynings, Bea Drew, and Freddie Blu Bailey in The 42 Years (2024)",
+            "__typename": "Markdown"
+          },
+          "__typename": "Image"
+        },
+        "titleType": {
+          "text": "TV Episode",
+          "id": "tvEpisode",
+          "isSeries": false,
+          "isEpisode": true,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "The Fatal Party",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2025,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 22,
+          "month": 1,
+          "year": 2025,
+          "__typename": "ReleaseDate"
+        }
+      },
+      {
+        "id": "tt20118506",
+        "primaryImage": {
+          "id": "rm3346010625",
+          "width": 1660,
+          "height": 2490,
+          "url": "https://m.media-amazon.com/images/M/MV5BYTBmMTEzYjUtODE3Mi00ZDk1LTkwMjQtZDQ2OWNjZDIxOWUxXkEyXkFqcGdeQXVyMTI3MTQzNzk1._V1_.jpg",
+          "caption": {
+            "plainText": "The 42 Years (2024)",
+            "__typename": "Markdown"
+          },
+          "__typename": "Image"
+        },
+        "titleType": {
+          "text": "TV Episode",
+          "id": "tvEpisode",
+          "isSeries": false,
+          "isEpisode": true,
+          "__typename": "TitleType"
+        },
+        "titleText": {
+          "text": "The Lone Angel",
+          "__typename": "TitleText"
+        },
+        "releaseYear": {
+          "year": 2025,
+          "endYear": null,
+          "__typename": "YearRange"
+        },
+        "releaseDate": {
+          "day": 23,
+          "month": 1,
+          "year": 2025,
+          "__typename": "ReleaseDate"
+        }
+      }
+    ]
+  }
