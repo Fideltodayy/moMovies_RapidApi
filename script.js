@@ -6,7 +6,8 @@ const options = {
 	}
 };
 
-fetch('https://moviesdatabase.p.rapidapi.com/titles', options)
+let url = 'https://moviesdatabase.p.rapidapi.com/titles';
+fetch(url, options)
 	.then(response => response.json())
 	.then((data) => {
 		let data1="";
